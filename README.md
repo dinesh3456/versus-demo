@@ -81,25 +81,5 @@ Versus Matchmaking Demo is a decentralized application (dApp) that demonstrates 
 7. View your updated skill rating and balance
 8. Withdraw your earnings when desired
 
-## Future Improvements
 
-- Implement a more sophisticated skill rating system (e.g., Elo or Glicko-2)
-- Add a dispute resolution mechanism for contested match results
-- Implement a global leaderboard
-- Extend support for multiple game types
-- Optimize gas usage for scalability
-- Implement additional security measures to prevent cheating
 
-## Security Considerations
-
-- This is a demo application and should not be used with real funds
-- The smart contract has not been audited and may contain vulnerabilities
-- Always interact with blockchain applications cautiously and understand the risks involved
-
-## Contributing
-
-Contributions to improve the Versus Matchmaking Demo are welcome. Please submit issues and pull requests on the project's GitHub repository.
-
-## License
-
-[MIT License](LICENSE)
