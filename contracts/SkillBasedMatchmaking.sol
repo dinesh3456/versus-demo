@@ -30,7 +30,7 @@ contract SkillBasedMatchmaking {
     }
 
     function getRequiredWager() public pure returns (uint256) {
-        return 0.01 ether; // Set a fixed wager amount
+        return 0.01 ether; 
     }
 
     function requestMatch() external payable {
